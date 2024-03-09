@@ -10,8 +10,8 @@ Experience the thrill of randomly generated Lego builds. Swipe right to express 
 Getting Started
 To experience Lego Swipe, follow these steps:
 
-Clone the repository: git clone https://github.com/elhispanopolako/tinder-demo.git
-Navigate to the project directory: cd tinder-demo
+Clone the repository: git clone https://github.com/elhispanopolako/legoSwipe.git
+Navigate to the project directory: cd legoSwipe
 
 Contributing
 Lego Swipe is an open-source project, and we welcome contributions from the Lego community. Feel free to open issues, submit pull requests, or share your ideas on how to make the Lego swiping experience even more enjoyable.
